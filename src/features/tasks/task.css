@@ -1,0 +1,29 @@
+#newTaskForm {
+  margin: 5%;
+  display: flex;
+  height: 50px;
+}
+#newTaskForm label {
+}
+#form-inputs {
+  display: flex;
+  margin: auto;
+  width: 50%;
+  background-color: aliceblue;
+}
+
+#title-input {
+  margin: 0.5%;
+}
+
+#description-input {
+  margin: 0.5%;
+}
+
+#category-input {
+  margin: 0.5%;
+}
+
+#submit-btn {
+  margin: 0.5%;
+}
